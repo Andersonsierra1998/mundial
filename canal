@@ -1,0 +1,585 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="FT | FOOTTERS PLAYOFFS A" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",FT | FOOTTERS PLAYOFFS A
+http://46.21.250.55:8080/jorge/jorge/531227
+#EXTINF:-1 tvg-id="" tvg-name="FT | FOOTTERS PLAYOFFS B" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",FT | FOOTTERS PLAYOFFS B
+http://46.21.250.55:8080/jorge/jorge/531228
+#EXTINF:-1 tvg-id="" tvg-name="FT | FOOTTERS PLAYOFFS C" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",FT | FOOTTERS PLAYOFFS C
+http://46.21.250.55:8080/jorge/jorge/531229
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | M+ DEPORTE 2 FHD" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ESPAÑA | M+ DEPORTE 2 FHD
+http://46.21.250.55:8080/jorge/jorge/531230
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Liga SmartBank 3 FHD" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ESPAÑA | Liga SmartBank 3 FHD
+http://46.21.250.55:8080/jorge/jorge/531231
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | Liga SmartBank 3" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ESPAÑA | Liga SmartBank 3
+http://46.21.250.55:8080/jorge/jorge/531232
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA |DEPORTE:  MOVISTAR LIGA HD" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ESPAÑA |DEPORTE:  MOVISTAR LIGA HD
+http://46.21.250.55:8080/jorge/jorge/450947
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES :SP MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)" tvg-logo="" group-title="DEPORTES EN M+",ES :SP MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93387
+#EXTINF:-1 tvg-id="" tvg-name="ES .SP MULTIDEPORTE" tvg-logo="" group-title="DEPORTES EN M+",ES .SP MULTIDEPORTE
+http://46.21.250.55:8080/jorge/jorge/93358
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES :SP MOVISTAR DEPORTE HD" tvg-logo="" group-title="DEPORTES EN M+",ES :SP MOVISTAR DEPORTE HD
+http://46.21.250.55:8080/jorge/jorge/93142
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES :SP MOVISTAR DEPORTE 1 FULLHD" tvg-logo="" group-title="DEPORTES EN M+",ES :SP MOVISTAR DEPORTE 1 FULLHD
+http://46.21.250.55:8080/jorge/jorge/93359
+#EXTINF:-1 tvg-id="" tvg-name="ES :SP MOVISTAR DEPORTE 1" tvg-logo="" group-title="DEPORTES EN M+",ES :SP MOVISTAR DEPORTE 1
+http://46.21.250.55:8080/jorge/jorge/93360
+#EXTINF:-1 tvg-id="" tvg-name="ES :SP MOVISTAR DEPORTE 2 (Solo Eventos)" tvg-logo="" group-title="DEPORTES EN M+",ES :SP MOVISTAR DEPORTE 2 (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93361
+#EXTINF:-1 tvg-id="" tvg-name="ES :SP MOVISTAR DEPORTE 3 (Solo Eventos)" tvg-logo="" group-title="DEPORTES EN M+",ES :SP MOVISTAR DEPORTE 3 (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93362
+#EXTINF:-1 tvg-id="" tvg-name="ES :SP MOVISTAR DEPORTE 4 (Solo Eventos)" tvg-logo="" group-title="DEPORTES EN M+",ES :SP MOVISTAR DEPORTE 4 (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93363
+#EXTINF:-1 tvg-id="" tvg-name="ES :SP MOVISTAR DEPORTE 5 (Solo Eventos)" tvg-logo="" group-title="DEPORTES EN M+",ES :SP MOVISTAR DEPORTE 5 (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93364
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES :SP MOVISTAR DEPORTE 6 (Solo Eventos)" tvg-logo="" group-title="DEPORTES EN M+",ES :SP MOVISTAR DEPORTE 6 (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93365
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES :SP MOVISTAR GOLF FHD" tvg-logo="" group-title="DEPORTES EN M+",ES :SP MOVISTAR GOLF FHD
+http://46.21.250.55:8080/jorge/jorge/93374
+#EXTINF:-1 tvg-id="gol.es" tvg-name="ES :SP GOL TV FHD" tvg-logo="" group-title="DEPORTES EN M+",ES :SP GOL TV FHD
+http://46.21.250.55:8080/jorge/jorge/93377
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES :SP TELEDEPORTE" tvg-logo="" group-title="DEPORTES EN M+",ES :SP TELEDEPORTE
+http://46.21.250.55:8080/jorge/jorge/93378
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES :SP MOVISTAR  TOROS" tvg-logo="" group-title="DEPORTES EN M+",ES :SP MOVISTAR  TOROS
+http://46.21.250.55:8080/jorge/jorge/93379
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES :SP MOVISTAR TOROS FULLHD" tvg-logo="" group-title="DEPORTES EN M+",ES :SP MOVISTAR TOROS FULLHD
+http://46.21.250.55:8080/jorge/jorge/93380
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES :SP  TELEDEPORTE FULL HD" tvg-logo="" group-title="DEPORTES EN M+",ES :SP  TELEDEPORTE FULL HD
+http://46.21.250.55:8080/jorge/jorge/184166
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES :SP MOVISTAR  DEPORTE" tvg-logo="" group-title="DEPORTES EN M+",ES :SP MOVISTAR  DEPORTE
+http://46.21.250.55:8080/jorge/jorge/109732
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES :SP MOVISTAR DEPORTE FULLHD" tvg-logo="" group-title="DEPORTES EN M+",ES :SP MOVISTAR DEPORTE FULLHD
+http://46.21.250.55:8080/jorge/jorge/109734
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES :SP MOVISTAR  GOLF" tvg-logo="" group-title="DEPORTES EN M+",ES :SP MOVISTAR  GOLF
+http://46.21.250.55:8080/jorge/jorge/109740
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="[ES] MOVISTAR GOLF HD" tvg-logo="" group-title="DEPORTES EN M+",[ES] MOVISTAR GOLF HD
+http://46.21.250.55:8080/jorge/jorge/184165
+#EXTINF:-1 tvg-id="toros.es" tvg-name="[ES] MOVISTAR TOROS HD" tvg-logo="" group-title="DEPORTES EN M+",[ES] MOVISTAR TOROS HD
+http://46.21.250.55:8080/jorge/jorge/184167
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA |    PARAMOUNT CHANNEL SD" tvg-logo="" group-title="INFANTILES",ESPAÑA |    PARAMOUNT CHANNEL SD
+http://46.21.250.55:8080/jorge/jorge/194811
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="M+  TCM SD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tcm.jpg" group-title="CINE EN M+",M+  TCM SD
+http://46.21.250.55:8080/jorge/jorge/93200
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="M+ TCM FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tcm.jpg" group-title="CINE EN M+",M+ TCM FHD
+http://46.21.250.55:8080/jorge/jorge/93202
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="M+ SUNDANCE SD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/sundance.jpg" group-title="CINE EN M+",M+ SUNDANCE SD
+http://46.21.250.55:8080/jorge/jorge/93203
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="M + SUNDANCE HD" tvg-logo="" group-title="CINE EN M+",M + SUNDANCE HD
+http://46.21.250.55:8080/jorge/jorge/184139
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="M+  SUNDANCE FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/sundance.jpg" group-title="CINE EN M+",M+  SUNDANCE FHD
+http://46.21.250.55:8080/jorge/jorge/93204
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="M+  XTREM SD" tvg-logo="" group-title="CINE EN M+",M+  XTREM SD
+http://46.21.250.55:8080/jorge/jorge/93206
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="M+  XTREM FHD" tvg-logo="" group-title="CINE EN M+",M+  XTREM FHD
+http://46.21.250.55:8080/jorge/jorge/93207
+#EXTINF:-1 tvg-id="somos.es" tvg-name="M+ SOMOS SD" tvg-logo="" group-title="CINE EN M+",M+ SOMOS SD
+http://46.21.250.55:8080/jorge/jorge/93208
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="M +COSMOPOLITAN  FHD" tvg-logo="" group-title="CINE EN M+",M +COSMOPOLITAN  FHD
+http://46.21.250.55:8080/jorge/jorge/109742
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="M+ BLAZE SD" tvg-logo="" group-title="CINE EN M+",M+ BLAZE SD
+http://46.21.250.55:8080/jorge/jorge/401916
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="M+ BLAZE FHD" tvg-logo="" group-title="CINE EN M+",M+ BLAZE FHD
+http://46.21.250.55:8080/jorge/jorge/401915
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ESPAÑA | MOVISTAR SERIES SD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg" group-title="SERIES EN M+",ESPAÑA | MOVISTAR SERIES SD
+http://46.21.250.55:8080/jorge/jorge/93211
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ESPAÑA | MOVISTAR SERIES FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg" group-title="SERIES EN M+",ESPAÑA | MOVISTAR SERIES FHD
+http://46.21.250.55:8080/jorge/jorge/93212
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ESPAÑA |  MOVISTAR SERIES HD" tvg-logo="" group-title="SERIES EN M+",ESPAÑA |  MOVISTAR SERIES HD
+http://46.21.250.55:8080/jorge/jorge/184141
+#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="ESPAÑA |  MOVISTAR SERIES 2 SD" tvg-logo="" group-title="SERIES EN M+",ESPAÑA |  MOVISTAR SERIES 2 SD
+http://46.21.250.55:8080/jorge/jorge/466873
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="ESPAÑA | M +SERIES 2 FHD" tvg-logo="" group-title="SERIES EN M+",ESPAÑA | M +SERIES 2 FHD
+http://46.21.250.55:8080/jorge/jorge/450951
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="ESPAÑA | CALLE 13 SD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg" group-title="SERIES EN M+",ESPAÑA | CALLE 13 SD
+http://46.21.250.55:8080/jorge/jorge/93215
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="ESPAÑA |  CALLE 13 FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg" group-title="SERIES EN M+",ESPAÑA |  CALLE 13 FHD
+http://46.21.250.55:8080/jorge/jorge/93216
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ESPAÑA | FOX SD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg" group-title="SERIES EN M+",ESPAÑA | FOX SD
+http://46.21.250.55:8080/jorge/jorge/93217
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="ESPAÑA | FOX LIFE FHD" tvg-logo="" group-title="SERIES EN M+",ESPAÑA | FOX LIFE FHD
+http://46.21.250.55:8080/jorge/jorge/331612
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="ESPAÑA |  FOX LIVE HD" tvg-logo="" group-title="SERIES EN M+",ESPAÑA |  FOX LIVE HD
+http://46.21.250.55:8080/jorge/jorge/331611
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ESPAÑA |  FOX FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg" group-title="SERIES EN M+",ESPAÑA |  FOX FHD
+http://46.21.250.55:8080/jorge/jorge/93218
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES :SP MOVISTAR LALIGA 1 (Solo Eventos)" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ES :SP MOVISTAR LALIGA 1 (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93333
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ESPAÑA DPOERTE  | LA LIGA 1 FHD  (Solo Eventos)" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ESPAÑA DPOERTE  | LA LIGA 1 FHD  (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93334
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES :SP MOVISTAR  LALIGA 2 (Solo Eventos)" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ES :SP MOVISTAR  LALIGA 2 (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93335
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES :SP MOVISTAR LA LIGA 2 FHD (Solo Eventos)" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ES :SP MOVISTAR LA LIGA 2 FHD (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93336
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES :SP MOVISTAR  LA LIGA 3 (Solo Eventos)" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ES :SP MOVISTAR  LA LIGA 3 (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93337
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="ES :SP MOVISTAR LA LIGA 4 (Solo Eventos)" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ES :SP MOVISTAR LA LIGA 4 (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93338
+#EXTINF:-1 tvg-id="mlaliga5.es" tvg-name="ES :SP MOVISTAR LA LIGA 5 (Solo Eventos)" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ES :SP MOVISTAR LA LIGA 5 (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93339
+#EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="ES :SP  MOVISTAR LA LIGA 6 (Solo Eventos)" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ES :SP  MOVISTAR LA LIGA 6 (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93340
+#EXTINF:-1 tvg-id="mlaliga7.es" tvg-name="ES :SP MOVISTAR LA LIGA 7 (Solo Eventos)" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ES :SP MOVISTAR LA LIGA 7 (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93341
+#EXTINF:-1 tvg-id="mlaliga8.es" tvg-name="ES :SP MOVISTAR LA LIGA 8 (Solo Eventos)" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ES :SP MOVISTAR LA LIGA 8 (Solo Eventos)
+http://46.21.250.55:8080/jorge/jorge/93342
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="ESPAÑA DPOERTE  | MOVISTAR LA LIGA" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ESPAÑA DPOERTE  | MOVISTAR LA LIGA
+http://46.21.250.55:8080/jorge/jorge/93385
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES :SP MOVISTAR LIGA 1 HD" tvg-logo="" group-title="LA LIGA+GOL MUNDIAL",ES :SP MOVISTAR LIGA 1 HD
+http://46.21.250.55:8080/jorge/jorge/253865
+#EXTINF:-1 tvg-id="" tvg-name="M+ BOING HD" tvg-logo="" group-title="INFANTILES",M+ BOING HD
+http://46.21.250.55:8080/jorge/jorge/511698
+#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR+ ALQUILER 1 HD" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| MOVISTAR+ ALQUILER 1 HD
+http://46.21.250.55:8080/jorge/jorge/532074
+#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR+ ALQUILER 2 HD" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| MOVISTAR+ ALQUILER 2 HD
+http://46.21.250.55:8080/jorge/jorge/532075
+#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR+ ALQUILER 3 HD" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| MOVISTAR+ ALQUILER 3 HD
+http://46.21.250.55:8080/jorge/jorge/532076
+#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR+ ALQUILER 4 HD" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| MOVISTAR+ ALQUILER 4 HD
+http://46.21.250.55:8080/jorge/jorge/532077
+#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR+ ALQUILER 5 HD" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| MOVISTAR+ ALQUILER 5 HD
+http://46.21.250.55:8080/jorge/jorge/532078
+#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR+ ALQUILER 6 HD" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| MOVISTAR+ ALQUILER 6 HD
+http://46.21.250.55:8080/jorge/jorge/532079
+#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR+ ALQUILER 7 HD" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| MOVISTAR+ ALQUILER 7 HD
+http://46.21.250.55:8080/jorge/jorge/532080
+#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR+ ALQUILER 8 HD" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| MOVISTAR+ ALQUILER 8 HD
+http://46.21.250.55:8080/jorge/jorge/532081
+#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR+ ALQUILER 9 HD" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| MOVISTAR+ ALQUILER 9 HD
+http://46.21.250.55:8080/jorge/jorge/532082
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Alquiler 1" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| Movistar Alquiler 1
+http://46.21.250.55:8080/jorge/jorge/532083
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Alquiler 2" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| Movistar Alquiler 2
+http://46.21.250.55:8080/jorge/jorge/532084
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Alquiler 3" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| Movistar Alquiler 3
+http://46.21.250.55:8080/jorge/jorge/532085
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Alquiler 4" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| Movistar Alquiler 4
+http://46.21.250.55:8080/jorge/jorge/532086
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Alquiler 5" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| Movistar Alquiler 5
+http://46.21.250.55:8080/jorge/jorge/532087
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Alquiler 6" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| Movistar Alquiler 6
+http://46.21.250.55:8080/jorge/jorge/532088
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Alquiler 7" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| Movistar Alquiler 7
+http://46.21.250.55:8080/jorge/jorge/532089
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Alquiler 8" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| Movistar Alquiler 8
+http://46.21.250.55:8080/jorge/jorge/532090
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Alquiler 9" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| Movistar Alquiler 9
+http://46.21.250.55:8080/jorge/jorge/532091
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Alquiler 10" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| Movistar Alquiler 10
+http://46.21.250.55:8080/jorge/jorge/532092
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Alquiler 11" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| Movistar Alquiler 11
+http://46.21.250.55:8080/jorge/jorge/532093
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Alquiler 12" tvg-logo="" group-title="CINE 24/7 ESPAÑA",ES| Movistar Alquiler 12
+http://46.21.250.55:8080/jorge/jorge/532094
+#EXTINF:-1 tvg-id="Peru|| America SD" tvg-name="Peru|| America" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Peru",Peru|| America
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22145
+#EXTINF:-1 tvg-id="Peru|| America HD" tvg-name="Peru|| America HD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Peru",Peru|| America HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/14232
+#EXTINF:-1 tvg-id="Peru|| America Next SD" tvg-name="Peru|| Global SD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/198.png" group-title="Peru",Peru|| Global SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1115813
+#EXTINF:-1 tvg-id="Peru|| America SD" tvg-name="Peru|| America SD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Peru",Peru|| America SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22144
+#EXTINF:-1 tvg-id="Peru|| America SD" tvg-name="Peru|| America SD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Peru",Peru|| America SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19007
+#EXTINF:-1 tvg-id="Peru|| Antares TV" tvg-name="Peru|| Antares TV" tvg-logo="https://pbs.twimg.com/profile_images/2306398664/anatares_tv_radio_400x400.jpg" group-title="Peru",Peru|| Antares TV
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22143
+#EXTINF:-1 tvg-id="Peru|| ATV SD" tvg-name="Peru|| ATV  HD" tvg-logo="https://i.imgur.com/xx8hDiQ.jpg" group-title="Peru",Peru|| ATV  HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1118002
+#EXTINF:-1 tvg-id="Peru|| ATV SD" tvg-name="Peru|| ATV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_(Peru)_-_2018_logo.png" group-title="Peru",Peru|| ATV SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22619
+#EXTINF:-1 tvg-id="Peru|| ATV SD" tvg-name="Peru|| Atv Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_(Peru)_-_2018_logo.png" group-title="Peru",Peru|| Atv Plus
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1113094
+#EXTINF:-1 tvg-id="Peru|| Bethel" tvg-name="Peru|| Bethel" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Bethel-Televisi%C3%B3n-en-vivo-Online.png" group-title="Peru",Peru|| Bethel
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22617
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Peru|| Canal N" tvg-logo="https://cde.canaln.pe/actualidad-canal-n-cumple-18-anos-informando-peruanos-n282882-646x363-381488.jpg" group-title="Peru",Peru|| Canal N
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22142
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Peru|| Canal N HD." tvg-logo="https://cde.canaln.pe/actualidad-canal-n-cumple-18-anos-informando-peruanos-n282882-646x363-381488.jpg" group-title="Peru",Peru|| Canal N HD.
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/14231
+#EXTINF:-1 tvg-id="Peru|| Canal N HD." tvg-name="Peru|| Canal N SD" tvg-logo="https://cde.canaln.pe/actualidad-canal-n-cumple-18-anos-informando-peruanos-n282882-646x363-381488.jpg" group-title="Peru",Peru|| Canal N SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19006
+#EXTINF:-1 tvg-id="Peru|| Canal N SD" tvg-name="Peru|| Canal N SD" tvg-logo="https://cde.canaln.pe/actualidad-canal-n-cumple-18-anos-informando-peruanos-n282882-646x363-381488.jpg" group-title="Peru",Peru|| Canal N SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22625
+#EXTINF:-1 tvg-id="Peru|| Capital TV" tvg-name="Peru|| Capital Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Capital_tv.png/175px-Capital_tv.png" group-title="Peru",Peru|| Capital Tv
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/14240
+#EXTINF:-1 tvg-id="Peru|| Capital TV" tvg-name="Peru|| Capital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Capital_tv.png/175px-Capital_tv.png" group-title="Peru",Peru|| Capital TV
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22141
+#EXTINF:-1 tvg-id="Peru|| Exitosa HD" tvg-name="Peru|| Exitosa HD" tvg-logo="https://static-co.radio.net/images/broadcasts/e3/6f/111315/1/c300.png" group-title="Peru",Peru|| Exitosa HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1113096
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD | Peru" tvg-name="Peru|| Gol peru Opc 1" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="Peru",Peru|| Gol peru Opc 1
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22139
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD | Peru" tvg-name="Peru|| Gol peru Opc 2" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="Peru",Peru|| Gol peru Opc 2
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19570
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD | Peru" tvg-name="Peru|| Gol peru Opc 3" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="Peru",Peru|| Gol peru Opc 3
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19008
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD- | Peru" tvg-name="Peru|| Gol peru Opc 4" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="Peru",Peru|| Gol peru Opc 4
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22140
+#EXTINF:-1 tvg-id="Peru|| Latina Opc. 1" tvg-name="Peru|| Latina Opc. 1" tvg-logo="https://television-planet.tv/uploads/posts/2019-07/1563282486_8d1takj-_400x400.png" group-title="Peru",Peru|| Latina Opc. 1
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19005
+#EXTINF:-1 tvg-id="Peru|| Latina Opc. 2" tvg-name="Peru|| Latina Opc. 2" tvg-logo="https://television-planet.tv/uploads/posts/2019-07/1563282486_8d1takj-_400x400.png" group-title="Peru",Peru|| Latina Opc. 2
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22137
+#EXTINF:-1 tvg-id="Peru|| Latina Opc. 3" tvg-name="Peru|| Latina Opc. 3 SD" tvg-logo="https://television-planet.tv/uploads/posts/2019-07/1563282486_8d1takj-_400x400.png" group-title="Peru",Peru|| Latina Opc. 3 SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22616
+#EXTINF:-1 tvg-id="Peru|| Monterrico TV" tvg-name="Peru|| Monterrico TV" tvg-logo="http://www.ssb.com.pe/images/monterrico%20tv.jpg" group-title="Peru",Peru|| Monterrico TV
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22136
+#EXTINF:-1 tvg-id="Peru|| Movistar Deportes" tvg-name="Peru|| Movistar Deportes" tvg-logo="https://yt3.ggpht.com/a/AGF-l78sfeqzL30fHGIfxlTwY4jL4PG8lIZAJ2YZVQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Peru",Peru|| Movistar Deportes
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1113093
+#EXTINF:-1 tvg-id="Peru|| Movistar Deportes" tvg-name="Peru|| Movistar Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/LogoMovistarPlus630x355.png" group-title="Peru",Peru|| Movistar Plus
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22623
+#EXTINF:-1 tvg-id="Peru|| Movistar Plus" tvg-name="Peru|| Movistar Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_(Peru)_-_2017_logo.png" group-title="Peru",Peru|| Movistar Plus
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1113355
+#EXTINF:-1 tvg-id="Peru|| Panamericana" tvg-name="Peru|| Panamericana" tvg-logo="https://bestcableperu.com.pe/img/canales/5.png" group-title="Peru",Peru|| Panamericana
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22134
+#EXTINF:-1 tvg-id="Peru|| Panamericana" tvg-name="Peru|| Panamericana ." tvg-logo="https://bestcableperu.com.pe/img/canales/5.png" group-title="Peru",Peru|| Panamericana .
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19004
+#EXTINF:-1 tvg-id="Peru|| Panamericana SD" tvg-name="Peru|| Panamericana SD" tvg-logo="https://bestcableperu.com.pe/img/canales/5.png" group-title="Peru",Peru|| Panamericana SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22624
+#EXTINF:-1 tvg-id="Peru|| Peru Magico" tvg-name="Peru|| Peru Magico" tvg-logo="https://i.imgur.com/WbIcsLR.png" group-title="Peru",Peru|| Peru Magico
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22133
+#EXTINF:-1 tvg-id="Peru|| RPP TV" tvg-name="Peru|| RPP HD" tvg-logo="https://1.bp.blogspot.com/-EzZ51GIrfXE/Wk48a1WHYjI/AAAAAAAALQc/tTSHwpomHfM76e8dik2j7Fc_5EM00Sv-gCLcBGAs/s1600/rpptv.jpg" group-title="Peru",Peru|| RPP HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22130
+#EXTINF:-1 tvg-id="Peru|| RPP TV" tvg-name="Peru|| RPP TV" tvg-logo="https://1.bp.blogspot.com/-EzZ51GIrfXE/Wk48a1WHYjI/AAAAAAAALQc/tTSHwpomHfM76e8dik2j7Fc_5EM00Sv-gCLcBGAs/s1600/rpptv.jpg" group-title="Peru",Peru|| RPP TV
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1118434
+#EXTINF:-1 tvg-id="Peru|| Tv Peru HD" tvg-name="Peru|| Tv Peru SD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pe-tv-peru-2373.jpg" group-title="Peru",Peru|| Tv Peru SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/22129
+#EXTINF:-1 tvg-id="Peru|| Tv Peru HD" tvg-name="Peru|| Tv Peru SD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pe-tv-peru-2373.jpg" group-title="Peru",Peru|| Tv Peru SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1115814
+#EXTINF:-1 tvg-id="" tvg-name="****PERU****" tvg-logo="http://www.tv-logo.com/views/default/images/flags/peru.png" group-title="Peru",****PERU****
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/14241
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD- | Peru" tvg-name="Peru|| GOL PERU HD" tvg-logo="https://3.bp.blogspot.com/-BhA7hQ1P7Dc/W8ehyUHPv3I/AAAAAAAABIM/rlU0N-IejoAKmP1pWnqrCOlecpTb8Rn0QCLcBGAs/s1600/logo-Gol-Peru.png" group-title="Peru",Peru|| GOL PERU HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1152848
+#EXTINF:-1 tvg-id="" tvg-name="Peru|| Best Cable Music" tvg-logo="https://i.imgur.com/cYBnILq.jpg" group-title="Peru",Peru|| Best Cable Music
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1163035
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Peru|| +Cumbia TV" tvg-logo="https://i.imgur.com/xvqacDx.jpg" group-title="Peru",Peru|| +Cumbia TV
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1163037
+#EXTINF:-1 tvg-id="" tvg-name="Peru|| Directv Peru" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pe-tv-peru-2373.jpg" group-title="Peru",Peru|| Directv Peru
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1164450
+#EXTINF:-1 tvg-id="" tvg-name="Peru || IPE" tvg-logo="" group-title="Peru",Peru || IPE
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210365
+#EXTINF:-1 tvg-id="" tvg-name="Espn" tvg-logo="http://xtream-coders.com/x0/deportes/espn.png" group-title="Peru",Espn
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210657
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2" tvg-logo="http://xtream-coders.com/x0/deportes/espn2.png" group-title="Peru",Espn 2
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210658
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3" tvg-logo="http://xtream-coders.com/x0/deportes/espn3.png" group-title="Peru",Espn 3
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210659
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/ae.png" group-title="Peru",A&E
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210660
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/522.png" group-title="Peru",HBO
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210661
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Peru",HBO 2
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210662
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="Peru",Fox Sports
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210663
+#EXTINF:-1 tvg-id="" tvg-name="Espn 4" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSports2.png" group-title="Peru",Espn 4
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210664
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/518.png" group-title="Peru",Space
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210666
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/270px-Star_Channel_2020.svg.png" group-title="Peru",Star Channel
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210667
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/510.png" group-title="Peru",Paramount Channel
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210668
+#EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1192.png" group-title="Peru",Latina
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210669
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1024px-Panamericana-tv.svg.png" group-title="Peru",Panamericana
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210670
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/800px-ATV_logo_2020.png" group-title="Peru",ATV
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210671
+#EXTINF:-1 tvg-id="" tvg-name="Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/150px-Logoexitosa.png" group-title="Peru",Exitosa TV
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210672
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/513.png" group-title="Peru",DHE
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210673
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="" group-title="Peru",Syfy
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210674
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="Peru",Claro Sports
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210675
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/fx.png" group-title="Peru",FX
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210676
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/cinecanal.png" group-title="Peru",Cinecanal
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210677
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus" tvg-logo="" group-title="Peru",Golden Plus
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210678
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/509.png" group-title="Peru",Cinemax
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210679
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://xtream-coders.com/x0/latino/tnt_series.png" group-title="Peru",TNT Series
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210681
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://xtream-coders.com/x0/latino/mtv.png" group-title="Peru",MTV
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1210682
+#EXTINF:-1 tvg-id="" tvg-name="WILLAX" tvg-logo="" group-title="Peru",WILLAX
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324864
+#EXTINF:-1 tvg-id="" tvg-name="TVPERU" tvg-logo="" group-title="Peru",TVPERU
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324865
+#EXTINF:-1 tvg-id="" tvg-name="ATVMAS" tvg-logo="" group-title="Peru",ATVMAS
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324866
+#EXTINF:-1 tvg-id="" tvg-name="CONECTA2" tvg-logo="" group-title="Peru",CONECTA2
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324867
+#EXTINF:-1 tvg-id="" tvg-name="USMPTV" tvg-logo="" group-title="Peru",USMPTV
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324868
+#EXTINF:-1 tvg-id="" tvg-name="NATIVA" tvg-logo="" group-title="Peru",NATIVA
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324869
+#EXTINF:-1 tvg-id="" tvg-name="ASIRITV" tvg-logo="" group-title="Peru",ASIRITV
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324870
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="" group-title="Peru",SONY
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324871
+#EXTINF:-1 tvg-id="" tvg-name="WARNERCHANNEL" tvg-logo="" group-title="Peru",WARNERCHANNEL
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324872
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="Peru",AXN
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324874
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL" tvg-logo="" group-title="Peru",UNIVERSAL
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324875
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="" group-title="Peru",LIFETIME
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324876
+#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="" group-title="Peru",ID
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324877
+#EXTINF:-1 tvg-id="" tvg-name="AANDEMUNDO" tvg-logo="" group-title="Peru",AANDEMUNDO
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324878
+#EXTINF:-1 tvg-id="" tvg-name="STUDIOUNIVERSAL" tvg-logo="" group-title="Peru",STUDIOUNIVERSAL
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324880
+#EXTINF:-1 tvg-id="" tvg-name="CLOVERCH" tvg-logo="" group-title="Peru",CLOVERCH
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324882
+#EXTINF:-1 tvg-id="" tvg-name="SONYMOVIES" tvg-logo="" group-title="Peru",SONYMOVIES
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324883
+#EXTINF:-1 tvg-id="" tvg-name="EUROPAEUROPA" tvg-logo="" group-title="Peru",EUROPAEUROPA
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324884
+#EXTINF:-1 tvg-id="" tvg-name="FILMSANDARTS" tvg-logo="" group-title="Peru",FILMSANDARTS
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324885
+#EXTINF:-1 tvg-id="" tvg-name="AZCINEMA" tvg-logo="" group-title="Peru",AZCINEMA
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324886
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYCHANNEL" tvg-logo="" group-title="Peru",DISCOVERYCHANNEL
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324887
+#EXTINF:-1 tvg-id="" tvg-name="HISTORYCHANNEL" tvg-logo="" group-title="Peru",HISTORYCHANNEL
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324888
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY2" tvg-logo="" group-title="Peru",HISTORY2
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324889
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO" tvg-logo="" group-title="Peru",NATGEO
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324890
+#EXTINF:-1 tvg-id="" tvg-name="ANIMALPLANET" tvg-logo="" group-title="Peru",ANIMALPLANET
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324891
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYSCIENCE" tvg-logo="" group-title="Peru",DISCOVERYSCIENCE
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324892
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYTURBO" tvg-logo="" group-title="Peru",DISCOVERYTURBO
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324893
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYTHEATER" tvg-logo="" group-title="Peru",DISCOVERYTHEATER
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324894
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYWORLD" tvg-logo="" group-title="Peru",DISCOVERYWORLD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324895
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="" group-title="Peru",PASIONES
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324896
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="" group-title="Peru",TELEMUNDO
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324897
+#EXTINF:-1 tvg-id="" tvg-name="AZCORAZON" tvg-logo="" group-title="Peru",AZCORAZON
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324898
+#EXTINF:-1 tvg-id="" tvg-name="KANALD" tvg-logo="" group-title="Peru",KANALD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324899
+#EXTINF:-1 tvg-id="" tvg-name="ECH" tvg-logo="https://t3.ftcdn.net/jpg/04/21/66/38/360_F_421663893_Kkwd8UyT1llCYP318Wj9f3uB3gonaARl.jpg" group-title="Peru",ECH
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1324900
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ ▆☆ Cinema Latino ☆▆ ▅ ▄ ▂ ▁" tvg-logo="" group-title="CINEMA LATINO",▁ ▂ ▄ ▅ ▆☆ Cinema Latino ☆▆ ▅ ▄ ▂ ▁
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42199
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Sexo, pudor y lágrimas 2 " tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Sexo, pudor y lágrimas 2 
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42197
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 03 A través de mi ventana" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 03 A través de mi ventana
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42196
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 04 Tom y Jerry: ¡Arriba, vaquero!" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 04 Tom y Jerry: ¡Arriba, vaquero!
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42195
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 05 La era de hielo: las aventuras de Buck" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 05 La era de hielo: las aventuras de Buck
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42194
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 06 Spider-Man: No Way Home" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 06 Spider-Man: No Way Home
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42193
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 07 Harry Potter 20th Anniversary: Return to Hogwarts" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 07 Harry Potter 20th Anniversary: Return to Hogwarts
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42192
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 08 La fortaleza" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 08 La fortaleza
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42191
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 09 Texas Chainsaw Massacre" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 09 Texas Chainsaw Massacre
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42190
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 10 Scream" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 10 Scream
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42189
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 11 Perdona nuestras ofensas" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 11 Perdona nuestras ofensas
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42188
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 12 La Casa Gucci" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 12 La Casa Gucci
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42187
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 13 Jugar en casa" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 13 Jugar en casa
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42186
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 14 Ser padre" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 14 Ser padre
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42185
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 15 Despierta la furia" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 15 Despierta la furia
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42184
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 16 10 Minutos menos" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 16 10 Minutos menos
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42183
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 17 Los Elfkins" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 17 Los Elfkins
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42182
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 18 Juanes: Origen" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 18 Juanes: Origen
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42181
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 19 Souvenir" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 19 Souvenir
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42180
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 20 Contagio en alta mar" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 20 Contagio en alta mar
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42179
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 21 Nomadland" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 21 Nomadland
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42178
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 22 Siervos de la Guerra" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 22 Siervos de la Guerra
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42177
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 23 Seguridad" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 23 Seguridad
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42176
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 24 La otra Missy" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 24 La otra Missy
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42175
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 25 La caza (The Hunt)" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 25 La caza (The Hunt)
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42174
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 26 Hero Mode" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 26 Hero Mode
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42173
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 27 El baile de los 41" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 27 El baile de los 41
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42172
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 28 En El Barrio" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 28 En El Barrio
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42171
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 29 Disomnia" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 29 Disomnia
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42170
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 30 Rogue" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 30 Rogue
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42169
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 31 Una noche de locos" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 31 Una noche de locos
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42168
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 32 Fuego Negro" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 32 Fuego Negro
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42167
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 33 Efectos Colaterales del Amor" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 33 Efectos Colaterales del Amor
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42166
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 34 John Was Trying to Contact Aliens" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 34 John Was Trying to Contact Aliens
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42165
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 35 Undercover Punch and Gun" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 35 Undercover Punch and Gun
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42164
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 36 El escándalo" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 36 El escándalo
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42163
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Lat | Cinemax HD" tvg-logo="https://pbs.twimg.com/profile_images/1157334251106381825/3O0jRDbV_400x400.jpg" group-title="CINEMA LATINO",Lat | Cinemax HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42162
+#EXTINF:-1 tvg-id="● Latino | HBO East HD 1080P-" tvg-name="Lat | HBO East HD  " tvg-logo="https://i.imgur.com/iR3KASw.jpg" group-title="CINEMA LATINO",Lat | HBO East HD  
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42161
+#EXTINF:-1 tvg-id="CLARO2: HBO FAMILY HD" tvg-name="Lat | HBO Family HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png" group-title="CINEMA LATINO",Lat | HBO Family HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42160
+#EXTINF:-1 tvg-id="CLARO2: HBO PLUS HD" tvg-name="Lat | Hbo Plus HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-plus-mexico_m.png" group-title="CINEMA LATINO",Lat | Hbo Plus HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42159
+#EXTINF:-1 tvg-id="● Latino | HBO Plus West HD 1080P-" tvg-name="Lat | Hbo Plus West HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-plus-mexico_m.png" group-title="CINEMA LATINO",Lat | Hbo Plus West HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42158
+#EXTINF:-1 tvg-id="● Latino | HBO SIGNATURE HD 1080P-" tvg-name="Lat | Hbo Signature HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/hbosignature.png" group-title="CINEMA LATINO",Lat | Hbo Signature HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42157
+#EXTINF:-1 tvg-id="● Latino | HBO West HD 1080P-" tvg-name="Lat | Hbo West HD" tvg-logo="https://i.imgur.com/2T1qoh3.gif" group-title="CINEMA LATINO",Lat | Hbo West HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42156
+#EXTINF:-1 tvg-id="● Latino | ndiePlex HD 1080P-" tvg-name="Lat | IndiePlex HD" tvg-logo="https://tvpremiumhd.com/channels/live/upload/9136.png" group-title="CINEMA LATINO",Lat | IndiePlex HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42155
+#EXTINF:-1 tvg-id="● Latino | MoreMax HD 1080P-" tvg-name="Lat | MoreMax HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/MoreMax_2016_.png/revision/latest/scale-to-width-down/340?cb=20200121010009&path-prefix=es" group-title="CINEMA LATINO",Lat | MoreMax HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42154
+#EXTINF:-1 tvg-id="● Latino | MovieMax HD 1080P-" tvg-name="Lat | MovieMax HD" tvg-logo="https://i.imgur.com/paxjKzE.png" group-title="CINEMA LATINO",Lat | MovieMax HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42153
+#EXTINF:-1 tvg-id="● Latino | MoviePlex HD 1080P-" tvg-name="Lat | MoviePlex HD" tvg-logo="https://cdn.gainbuzz.com/Asset/AssetImages/ActualImages/556_Movie+Plex-+Kalol.jpg" group-title="CINEMA LATINO",Lat | MoviePlex HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42152
+#EXTINF:-1 tvg-id="● Latino | OuterMax HD 1080P-" tvg-name="Lat | OuterMax HD" tvg-logo="https://i.imgur.com/nEbZeKl.png" group-title="CINEMA LATINO",Lat | OuterMax HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42151
+#EXTINF:-1 tvg-id="● Latino | RetroPlex HD 1080P-" tvg-name="Lat | RetroPlex HD" tvg-logo="https://i.imgur.com/tF1RJF0.jpg" group-title="CINEMA LATINO",Lat | RetroPlex HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42150
+#EXTINF:-1 tvg-id="● Latino | Showtime East HD-" tvg-name="Lat  | Showtime East" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/showtime-east.jpg" group-title="CINEMA LATINO",Lat  | Showtime East
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42148
+#EXTINF:-1 tvg-id="● Latino | Showtime HD-" tvg-name="Lat | SHOWTIME HD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2015/01/showtime_logo.jpg" group-title="CINEMA LATINO",Lat | SHOWTIME HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42146
+#EXTINF:-1 tvg-id="" tvg-name="Lat | Showtime HD " tvg-logo="https://i.imgur.com/fwFBg2I.png" group-title="CINEMA LATINO",Lat | Showtime HD 
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42147
+#EXTINF:-1 tvg-id="● Latino | Showtime West HD-" tvg-name="Lat | Showtime West HD" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/showtime-west.jpg" group-title="CINEMA LATINO",Lat | Showtime West HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42145
+#EXTINF:-1 tvg-id="● Latino | Starz Black HD 1080P-" tvg-name="Lat | Starz Black HD" tvg-logo="data:image/png;base64,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" group-title="CINEMA LATINO",Lat | Starz Black HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42144
+#EXTINF:-1 tvg-id="~ SD FOX CINEMA" tvg-name="Lat | Starz Cinema HD" tvg-logo="https://www.thetvaddict.com/wp-content/uploads/2019/02/Starz-Logo.jpg" group-title="CINEMA LATINO",Lat | Starz Cinema HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42143
+#EXTINF:-1 tvg-id="● Latino | Starz Encore Family HD 1080P-" tvg-name="Lat | Starz Family HD" tvg-logo="https://i.imgur.com/OLJIbwW.jpg" group-title="CINEMA LATINO",Lat | Starz Family HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42135
+#EXTINF:-1 tvg-id="● Latino | Starz Family HD-" tvg-name="Lat |  Starz Family HD" tvg-logo="https://i.imgur.com/OLJIbwW.jpg" group-title="CINEMA LATINO",Lat |  Starz Family HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42130
+#EXTINF:-1 tvg-id="? Latino | Starz Kids & Family HD 1080P-" tvg-name="Lat | Starz Kids & Family HD" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/starz-kids-family-200.jpg" group-title="CINEMA LATINO",Lat | Starz Kids & Family HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/42128
+#EXTINF:-1 tvg-id="HBO HD Opc 1" tvg-name="Lat | HBO HD Opc 1" tvg-logo="https://comparaiso.mx/sites/default/files/images/logos/hbo-200x300.png" group-title="CINEMA LATINO",Lat | HBO HD Opc 1
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1124169
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="MX || Axn Vip" tvg-logo="https://i.imgur.com/fympeSA.jpg" group-title="CINEMA LATINO",MX || Axn Vip
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/16518
+#EXTINF:-1 tvg-id="UNIVERSAL VIP HD" tvg-name="MX || Universal Vip HD" tvg-logo="https://i.imgur.com/j0Tzy5G.jpg" group-title="CINEMA LATINO",MX || Universal Vip HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/16514
+#EXTINF:-1 tvg-id="~ SD CINECANAL" tvg-name="MX || Cine Canal Vip" tvg-logo="https://i.imgur.com/OMpHZoC.png" group-title="CINEMA LATINO",MX || Cine Canal Vip
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/16370
+#EXTINF:-1 tvg-id="CLARO2: FOX HD" tvg-name="Lat | Fox HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox_m.png" group-title="CINEMA LATINO",Lat | Fox HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19427
+#EXTINF:-1 tvg-id="CLARO2: HBO PLUS HD" tvg-name="Lat | Hbo Plus HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-plus-mexico_m.png" group-title="CINEMA LATINO",Lat | Hbo Plus HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19352
+#EXTINF:-1 tvg-id="CLARO2: HBO FAMILY HD" tvg-name="Lat | HBO Family HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png" group-title="CINEMA LATINO",Lat | HBO Family HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19374
+#EXTINF:-1 tvg-id="● Latino | HBO SIGNATURE HD 1080P-" tvg-name="Lat | Hbo Signature HD" tvg-logo="https://i.imgur.com/EMQrZLH.gif" group-title="CINEMA LATINO",Lat | Hbo Signature HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19426
+#EXTINF:-1 tvg-id="~ HD A&E" tvg-name="MX || A&E SD" tvg-logo="https://cdn.mitvstatic.com/channels/sv_a-e-mundo_m.png" group-title="CINEMA LATINO",MX || A&E SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81780
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="MX || Cinemax HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cinemax-sur_m.png" group-title="CINEMA LATINO",MX || Cinemax HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81859
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="MX || De Pelicula Plus HD" tvg-logo="https://i.imgur.com/GIdrkKE.jpg" group-title="CINEMA LATINO",MX || De Pelicula Plus HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81864
+#EXTINF:-1 tvg-id="~ HD Golden Plus" tvg-name="MX || Golden Plus HD " tvg-logo="https://latelegratis.com/wp-content/uploads/2020/02/goldenplus.png" group-title="CINEMA LATINO",MX || Golden Plus HD 
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81866
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="MX || De Pelicula" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" group-title="CINEMA LATINO",MX || De Pelicula
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81887
+#EXTINF:-1 tvg-id="~ SD GOLDEN EDGE" tvg-name="MX || Golden Edge SD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="CINEMA LATINO",MX || Golden Edge SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81690
+#EXTINF:-1 tvg-id="~ HD Sony Channel" tvg-name="MX || Sony Channel HD" tvg-logo="https://i.imgur.com/yCDDvBX.png" group-title="CINEMA LATINO",MX || Sony Channel HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81954
+#EXTINF:-1 tvg-id="~ SD PARAMOUNT" tvg-name="MX || Paramount Channel HD" tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/1615420420/1200-400.jpg" group-title="CINEMA LATINO",MX || Paramount Channel HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81977
+#EXTINF:-1 tvg-id="~ SD GOLDEN EDGE" tvg-name="MX || Golden Edge SD" tvg-logo="https://i.imgur.com/XkLF5Ff.png" group-title="CINEMA LATINO",MX || Golden Edge SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81858
+#EXTINF:-1 tvg-id="~ SD WARNER CH" tvg-name="MX || Warner HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png" group-title="CINEMA LATINO",MX || Warner HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81953
+#EXTINF:-1 tvg-id="~ SD PARAMOUNT" tvg-name="MX || Paramount SD" tvg-logo="https://i.blogs.es/417744/paramount_network_logo/450_1000.jpg" group-title="CINEMA LATINO",MX || Paramount SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81819
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="MX || De Pelicula + SD" tvg-logo="https://i.imgur.com/GIdrkKE.jpg" group-title="CINEMA LATINO",MX || De Pelicula + SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81695
+#EXTINF:-1 tvg-id="~ SD GOLDEN PLUS" tvg-name="MX || Golden Plus SD" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/GPlus.png" group-title="CINEMA LATINO",MX || Golden Plus SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81698
+#EXTINF:-1 tvg-id="~ De Pelicula" tvg-name="MX || De pelicula Opc 1 SD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" group-title="CINEMA LATINO",MX || De pelicula Opc 1 SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81720
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="MX || Star Channel SD" tvg-logo="https://i.imgur.com/NULADuX.jpg" group-title="CINEMA LATINO",MX || Star Channel SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81742
+#EXTINF:-1 tvg-id="~ SD FOX" tvg-name="MX || Star Channel SD Opc 1" tvg-logo="https://i.imgur.com/NULADuX.jpg" group-title="CINEMA LATINO",MX || Star Channel SD Opc 1
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81791
+#EXTINF:-1 tvg-id="~ HD Golden Plus" tvg-name="MX || Golden SD Opc 1" tvg-logo="https://www.codice.tv/images/canales/mexico/55sky-logo-GoldenEdge.jpg" group-title="CINEMA LATINO",MX || Golden SD Opc 1
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81828
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="MX || Cinecanal HD" tvg-logo="https://i.pinimg.com/originals/b3/5d/13/b35d13fb9996e6932db680003ccf0220.png" group-title="CINEMA LATINO",MX || Cinecanal HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81868
+#EXTINF:-1 tvg-id="~ HD Studio Universal" tvg-name="MX || Studio Universal SD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINEMA LATINO",MX || Studio Universal SD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81687
+#EXTINF:-1 tvg-id="~ SD GOLDEN" tvg-name="MX || Golden" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden_m.png" group-title="CINEMA LATINO",MX || Golden
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/81986
+#EXTINF:-1 tvg-id="CLARO2: CINELATINO" tvg-name="LAt | Cinelatino" tvg-logo="https://i.imgur.com/ZR0bpQf.png" group-title="CINEMA LATINO",LAt | Cinelatino
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19366
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Lat | Cinemax" tvg-logo="https://pbs.twimg.com/profile_images/1157334251106381825/3O0jRDbV_400x400.jpg" group-title="CINEMA LATINO",Lat | Cinemax
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19388
+#EXTINF:-1 tvg-id="CLARO2: HBO (W)." tvg-name="Lat | Hbo (W)." tvg-logo="https://i.imgur.com/2T1qoh3.gif" group-title="CINEMA LATINO",Lat | Hbo (W).
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19462
+#EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="Lat | DE Pelicula" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" group-title="CINEMA LATINO",Lat | DE Pelicula
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19485
+#EXTINF:-1 tvg-id="~ HD Cinecanal" tvg-name="Lat | Cinecanal HD" tvg-logo="https://i.pinimg.com/originals/b3/5d/13/b35d13fb9996e6932db680003ccf0220.png" group-title="CINEMA LATINO",Lat | Cinecanal HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19357
+#EXTINF:-1 tvg-id="CLARO2: HBO 2 HD" tvg-name="Lat | Hbo 2 HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png" group-title="CINEMA LATINO",Lat | Hbo 2 HD
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/19392
+#EXTINF:-1 tvg-id="● Latino | HBO East HD 1080P-" tvg-name="Lat | Hbo Extreme" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/a1cb1ce71cd36dbd399e4d25376154d3.jpg" group-title="CINEMA LATINO",Lat | Hbo Extreme
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1155904
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime" tvg-logo="" group-title="CINEMA LATINO",Universal Crime
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1242799
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy" tvg-logo="" group-title="CINEMA LATINO",Universal Comedy
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1242800
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-logo="" group-title="CINEMA LATINO",Universal Cinema
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1242801
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality" tvg-logo="" group-title="CINEMA LATINO",Universal Reality
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1242802
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premier" tvg-logo="" group-title="CINEMA LATINO",Universal Premier
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1242803
+#EXTINF:-1 tvg-id="" tvg-name="Cinema|| Latino PPV-1" tvg-logo="" group-title="CINEMA LATINO",Cinema|| Latino PPV-1
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1117820
+#EXTINF:-1 tvg-id="" tvg-name="LAT || Star Opc 1" tvg-logo="" group-title="CINEMA LATINO",LAT || Star Opc 1
+http://mymoontools.xyz:8080/FNmdP2U7ey/FwQBAhSK3ddsrq/1307169
+#EXTINF:-1 xui-id="309325" tvg-id="" tvg-name="GOL MUNDIAL FHD" tvg-logo="http://iptvtree.es:80/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcGDmAjhb3qXfkhgFnsDVIYhf66TSEWYT99h51ChlBDn7CqvPUT0twIXVJfgMZpINlM.jpg" group-title="⚽QATAR 2022⚽",GOL MUNDIAL FHD
+http://iptvtree.es:80/play/sZIPxOCD8hWepteAIG-BhfD4HP8xCOlSAReYia6WjMZcbPcNouOcaMX_DsS8_P42/ts
+#EXTINF:-1 xui-id="309326" tvg-id="" tvg-name="GOL MUNDIAL HD" tvg-logo="http://iptvtree.es:80/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcGDmAjhb3qXfkhgFnsDVIYhf66TSEWYT99h51ChlBDn7CqvPUT0twIXVJfgMZpINlM.jpg" group-title="⚽QATAR 2022⚽",GOL MUNDIAL HD
+http://iptvtree.es:80/play/sZIPxOCD8hWepteAIG-BhfD4HP8xCOlSAReYia6WjMbGw7lUSMhUFhABplXWHbe5/ts
+#EXTINF:-1 xui-id="309327" tvg-id="" tvg-name="GOL MUNDIAL SD" tvg-logo="http://iptvtree.es:80/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcGDmAjhb3qXfkhgFnsDVIYhf66TSEWYT99h51ChlBDn7CqvPUT0twIXVJfgMZpINlM.jpg" group-title="⚽QATAR 2022⚽",GOL MUNDIAL SD
+http://iptvtree.es:80/play/sZIPxOCD8hWepteAIG-BhfD4HP8xCOlSAReYia6WjMbHF60vH_kVDyaT9h_BVcde/ts
+#EXTINF:-1 xui-id="309328" tvg-id="" tvg-name="GOL MUNDIAL 1 FHD" tvg-logo="http://iptvtree.es:80/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcGDmAjhb3qXfkhgFnsDVIYhf66TSEWYT99h51ChlBDn7CqvPUT0twIXVJfgMZpINlM.jpg" group-title="⚽QATAR 2022⚽",GOL MUNDIAL 1 FHD
+http://iptvtree.es:80/play/sZIPxOCD8hWepteAIG-BhfD4HP8xCOlSAReYia6WjMbG5MTVB2V7cJDQIJLrPLly/ts
+#EXTINF:-1 xui-id="309329" tvg-id="" tvg-name="GOL MUNDIAL 1 HD" tvg-logo="http://iptvtree.es:80/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcGDmAjhb3qXfkhgFnsDVIYhf66TSEWYT99h51ChlBDn7CqvPUT0twIXVJfgMZpINlM.jpg" group-title="⚽QATAR 2022⚽",GOL MUNDIAL 1 HD
+http://iptvtree.es:80/play/sZIPxOCD8hWepteAIG-BhfD4HP8xCOlSAReYia6WjMZT4LBzdVBZJt6gvsfZdlF_/ts
+#EXTINF:-1 xui-id="309330" tvg-id="" tvg-name="GOL MUNDIAL 1 SD" tvg-logo="http://iptvtree.es:80/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcGDmAjhb3qXfkhgFnsDVIYhf66TSEWYT99h51ChlBDn7CqvPUT0twIXVJfgMZpINlM.jpg" group-title="⚽QATAR 2022⚽",GOL MUNDIAL 1 SD
+http://iptvtree.es:80/play/sZIPxOCD8hWepteAIG-BhfD4HP8xCOlSAReYia6WjMaISkzCA56A7p743IsiNMkl/ts
+
+
